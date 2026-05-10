@@ -28,7 +28,7 @@ seccion = st.selectbox(
 
 st.markdown("---")
 
-if seccion == "1. Base de Datos Cruda":
+if seccion == "1. Base de Datos":
     st.subheader("Registros Recolectados")
     st.dataframe(df, use_container_width=True)
 
