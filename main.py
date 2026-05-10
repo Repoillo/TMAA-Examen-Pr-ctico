@@ -20,7 +20,7 @@ except FileNotFoundError:
 
 seccion = st.selectbox(
     "Seleccione el apartado a visualizar:",
-    ("1. Base de datos", 
+    ("1. Base de Datos", 
      "2. Medidas de Tendencia Central", 
      "3. Distribucion de Frecuencias", 
      "4. Visualizacion Grafica")
