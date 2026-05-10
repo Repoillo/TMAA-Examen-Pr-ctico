@@ -1,0 +1,9 @@
+animal,peso_kg,altura_m,velocidad_kmh,color
+Loro,1.0,0.3,40,Verde
+Aguila,5.0,0.9,160,Marron
+Halcon,1.1,0.5,300,Gris
+Buho,2.0,0.6,60,Gris
+Colibri,0.005,0.1,50,Verde
+Cuervo,1.2,0.5,70,Negro
+Pato,1.5,0.4,90,Blanco
+Cisne,10.0,1.2,80,Blanco
