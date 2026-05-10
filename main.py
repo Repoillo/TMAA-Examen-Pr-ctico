@@ -9,7 +9,7 @@ COLOR_PRINCIPAL = '#8B0000'
 COLOR_SECUNDARIO = '#DC143C'
 COLOR_FONDO_GRAFICA = '#0E1117'
 
-st.title("Analisis de Datos: Problematica Ambiental")
+st.title("Examen Práctico: Aves")
 st.markdown("---")
 
 try:
@@ -20,7 +20,7 @@ except FileNotFoundError:
 
 seccion = st.selectbox(
     "Seleccione el apartado a visualizar:",
-    ("1. Base de Datos Cruda", 
+    ("1. Base de Datos", 
      "2. Medidas de Tendencia Central", 
      "3. Distribucion de Frecuencias", 
      "4. Visualizacion Grafica")
